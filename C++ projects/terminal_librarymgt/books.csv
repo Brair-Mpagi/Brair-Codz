@@ -1,0 +1,11 @@
+title,author,id,isAvailable,location
+"Computer Science","Brair",1,true,"Shelf A1"
+"Information Technology","Scott",2,true,"Shelf A2"
+"Art and Design","Erich",3,true,"Shelf A3"
+"Computer Architecture","Robert",4,true,"Shelf A4"
+"The Programmer","Andrew",5,true,"Shelf A5"
+"Introduction to Algorithms","Thomas",6,true,"Shelf A6"
+"Artificial Intelligence","Stuart",7,true,"Shelf A7"
+"Data Science from Scratch","Joel",8,true,"Shelf A8"
+"Deep Learning","Ian",9,true,"Shelf A9"
+"Machine Learning","ChrisBishop",10,true,"Shelf A10"
